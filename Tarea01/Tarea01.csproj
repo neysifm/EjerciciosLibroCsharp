@@ -43,11 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Capitulo01\Ejercicios_1_y_5.cs" />
+    <Compile Include="Capitulo02\Ejercicios_1_3_y_5.cs" />
+    <Compile Include="Capitulo03\Ejercicios_1_4_y_5.cs" />
+    <Compile Include="Capitulo04\Ejercicios_1_2_y_5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
